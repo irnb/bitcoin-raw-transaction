@@ -8,4 +8,4 @@ in this jupyter notebook i create :
   
   3- raw transaction
   
-in pure python
+in pure python and explain what i have done 
